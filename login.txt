@@ -1,1 +1,2 @@
-Ahoj světe, používám Git !!! :)
+Tento text jsme vložili na lokálu
+
